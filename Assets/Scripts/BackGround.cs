@@ -33,3 +33,5 @@ public class BackGround : MonoBehaviour
         else if (temp < startpos - length) startpos -= length;
     }
 }
+
+//githubtest
